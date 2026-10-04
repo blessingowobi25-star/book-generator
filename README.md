@@ -8,7 +8,7 @@ Powered by **Google Gemini 3 Pro** for deep, engaging content and **Gemini 2.5 F
 
 ## ✨ Key Features
 
-- **🤖 Dual-AI Engine**: Uses `gemini-3-pro-preview` for high-quality, long-form writing and `gemini-2.5-flash-image` for consistent, artistic illustrations.
+- **🤖 Dual-AI Engine**: Uses `gemini-3.1-pro-preview` for high-quality, long-form writing and `gemini-2.5-flash-image` for consistent, artistic illustrations.
 - **🎨 Interactive Diagrams**: Automatically generates complex data structures and flows as interactive SVG diagrams that users can zoom and pan.
 - **📱 Multi-Format Support**: 
   - **Standard eBook**: Comprehensive chapters with narrative flow.
